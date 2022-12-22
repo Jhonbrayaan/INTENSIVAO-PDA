@@ -1,0 +1,3 @@
+const exibir = require("./")
+
+exibir()

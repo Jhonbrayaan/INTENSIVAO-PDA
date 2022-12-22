@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.search {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+   height: 50%;
+   width: 10rem%;
+   border: solid 5px;
+   border-color: white;
+
+}

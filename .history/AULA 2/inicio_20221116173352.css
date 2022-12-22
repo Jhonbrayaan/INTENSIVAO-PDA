@@ -1,0 +1,23 @@
+/* > = FILHO DIRETO */
+
+body > p {
+  color: red;
+}
+
+/* ~ = IRMÃO */
+
+p ~ div  {
+ background: red;
+}
+
+div {
+  position: fixed;
+  /* top: 300px; ACIMA */
+  /* left: 300px; ESQUERDA */
+  bottom: 50px; /* EMBAIXO */
+  right: 50px; /* DIREITA */
+}
+
+main {
+  
+}

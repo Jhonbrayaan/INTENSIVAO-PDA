@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+.search {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+}
+
+img {
+   height: 10%;
+   width: 30%;
+   border: solid 5px;
+   border-color: white;
+  
+}
+p {
+  position: absolute;
+  color: yellow;
+ 
+  display: flex;
+  justify-content: center;
+}
+
+.container-img {
+  display: inline-block;
+  position: relative;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+}

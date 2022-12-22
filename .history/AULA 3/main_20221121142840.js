@@ -1,0 +1,1 @@
+// captar a média de 3 no

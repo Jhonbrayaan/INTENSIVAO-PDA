@@ -1,0 +1,11 @@
+/* > = FILHO DIRETO */
+
+body > p {
+  color: red;
+}
+
+/* ~ = IRMÃO */
+
+p ~ div  {
+ background: g;
+}

@@ -1,0 +1,1 @@
+// captar a média 

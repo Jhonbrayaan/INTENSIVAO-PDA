@@ -1,0 +1,3 @@
+const exibir = requeri
+
+exibir()

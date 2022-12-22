@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+.search {
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+   height: 10%;
+   width: 30%;
+   border: solid 5px;
+   border-color: white;
+   max-width: 120px;
+   max-height: 120px;
+}
+p {
+  position: absolute;
+  color: yellow;
+}

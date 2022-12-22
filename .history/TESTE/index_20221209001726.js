@@ -1,0 +1,1 @@
+const objeto = {2}

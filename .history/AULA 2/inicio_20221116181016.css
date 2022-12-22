@@ -1,0 +1,49 @@
+/* > = FILHO DIRETO */
+
+body > p {
+  color: red;
+}
+
+/* ~ = IRMÃO */
+
+p ~ div  {
+ background: red;
+}
+
+div {
+  position: fixed;
+  /* top: 300px; ACIMA */
+  /* left: 300px; ESQUERDA */
+  bottom: 50px; /* EMBAIXO */
+  right: 50px; /* DIREITA */
+}
+
+main {
+  height: 200vh;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+
+  background-color: aquamarine;
+
+  position: absolute;
+  top: 10px;
+  left: 0;
+  right: 0;
+}
+
+p {
+  position: relative;
+  background-color: brown;
+  top: 1px;
+  left: 0px;
+}
+
+/* % = PORCENTAGEM */
+/* PX = PIXELS */
+/* EM = PORCENTAGEM ATRAVEZ DO TAMANHO DA FONTE */
+/* PT = 1.328PX */
+/* VW = LARGURA FIXA TOTAL DA TELA */
+/*  = PORCENTAGEM */

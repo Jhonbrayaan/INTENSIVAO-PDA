@@ -1,0 +1,12 @@
+/* > = FILHO DIRETO */
+
+body > p {
+  color: red;
+}
+
+/* ~ =  TIO */
+
+p ~ p {
+
+}
+

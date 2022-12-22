@@ -1,0 +1,2 @@
+import exibir from "./exibir";
+
